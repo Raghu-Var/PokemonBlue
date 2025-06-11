@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "types": ["Grass", "Poison"],
+    "stats": { "hp": 45, "atk": 49, "def": 49, "spd": 45 },
+    "moves": ["Tackle", "Growl"]
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "types": ["Fire"],
+    "stats": { "hp": 39, "atk": 52, "def": 43, "spd": 65 },
+    "moves": ["Scratch", "Growl"]
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "types": ["Water"],
+    "stats": { "hp": 44, "atk": 48, "def": 65, "spd": 43 },
+    "moves": ["Tackle", "Tail Whip"]
+  }
+]
